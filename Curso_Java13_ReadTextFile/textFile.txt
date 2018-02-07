@@ -1,0 +1,3 @@
+Esto es un archivo de texto
+Primera linea
+Segunda linea
